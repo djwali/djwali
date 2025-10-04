@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Your Porn Links Directory</title>
+    <style> body { font-family: Arial; } .category { margin: 20px; } .link { list-style: none; } </style>
+</head>
+<body>
+    <h1>Welcome to Your Porn Directory (18+ Only)</h1>
+    <p>Disclaimer: All links are to external sites. We earn commissions from some.</p>
+    <div class="category">
+        <h2>Free Porn Tubes</h2>
+        <ul>
+            <li class="link"><a href="https://www.pornhub.com/" target="_blank">PornHub</a> - Free HD videos.</li>
+            <li class="link"><a href="https://www.xvideos.com/" target="_blank">XVideos</a> - Massive collection.</li>
+            <!-- Add more -->
+        </ul>
+        <a href="/full-tubes">See All</a>
+    </div>
+    <!-- Add more categories -->
+    <footer>2257 Compliance: All models 18+. Records with custodians.</footer>
+</body>
+</html>
